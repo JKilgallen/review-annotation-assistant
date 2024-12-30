@@ -1,0 +1,29 @@
+review_id,review_text,label_id,sentiment
+2,The weather was terrible. It was raining the whole time. The guide was boring and didn't seem to know what he was talking about. The oysters were terrible.,weather,Negative
+2,The weather was terrible. It was raining the whole time. The guide was boring and didn't seem to know what he was talking about. The oysters were terrible.,guide,Negative
+3,The tour was great. The guide was very knowledgeable and the oysters were delicious. And it was great to learn about the history of the area.,weather,Positive
+3,The tour was great. The guide was very knowledgeable and the oysters were delicious. And it was great to learn about the history of the area.,guide,Positive
+1,"The weather was perfect. Not too hot, not too cold. The guide was amazing and very informative. The oysters were delicious.",weather,Positive
+1,"The weather was perfect. Not too hot, not too cold. The guide was amazing and very informative. The oysters were delicious.",guide,Positive
+2,The weather was terrible. It was raining the whole time. The guide was boring and didn't seem to know what he was talking about. The oysters were terrible.,weather,Negative
+2,The weather was terrible. It was raining the whole time. The guide was boring and didn't seem to know what he was talking about. The oysters were terrible.,guide,Negative
+3,The tour was great. The guide was very knowledgeable and the oysters were delicious. And it was great to learn about the history of the area.,weather,Neutral
+1,"The weather was perfect. Not too hot, not too cold. The guide was amazing and very informative. The oysters were delicious.",weather,Neutral
+1,"The weather was perfect. Not too hot, not too cold. The guide was amazing and very informative. The oysters were delicious.",guide,Neutral
+1,"The weather was perfect. Not too hot, not too cold. The guide was amazing and very informative. The oysters were delicious.",shucking,Neutral
+2,The weather was terrible. It was raining the whole time. The guide was boring and didn't seem to know what he was talking about. The oysters were terrible.,weather,Neutral
+2,The weather was terrible. It was raining the whole time. The guide was boring and didn't seem to know what he was talking about. The oysters were terrible.,guide,Neutral
+2,The weather was terrible. It was raining the whole time. The guide was boring and didn't seem to know what he was talking about. The oysters were terrible.,shucking,Neutral
+3,The tour was great. The guide was very knowledgeable and the oysters were delicious. And it was great to learn about the history of the area.,weather,Neutral
+3,The tour was great. The guide was very knowledgeable and the oysters were delicious. And it was great to learn about the history of the area.,guide,Neutral
+1,"The weather was perfect. Not too hot, not too cold. The guide was amazing and very informative. The oysters were delicious.",weather,Neutral
+1,"The weather was perfect. Not too hot, not too cold. The guide was amazing and very informative. The oysters were delicious.",guide,Neutral
+2,The weather was terrible. It was raining the whole time. The guide was boring and didn't seem to know what he was talking about. The oysters were terrible.,guide,Neutral
+3,The tour was great. The guide was very knowledgeable and the oysters were delicious. And it was great to learn about the history of the area.,weather,Positive
+3,The tour was great. The guide was very knowledgeable and the oysters were delicious. And it was great to learn about the history of the area.,guide,Positive
+1,"The weather was perfect. Not too hot, not too cold. The guide was amazing and very informative. The oysters were delicious.",weather,Negative
+1,"The weather was perfect. Not too hot, not too cold. The guide was amazing and very informative. The oysters were delicious.",guide,Negative
+2,The weather was terrible. It was raining the whole time. The guide was boring and didn't seem to know what he was talking about. The oysters were terrible.,weather,Negative
+2,The weather was terrible. It was raining the whole time. The guide was boring and didn't seem to know what he was talking about. The oysters were terrible.,guide,Negative
+3,The tour was great. The guide was very knowledgeable and the oysters were delicious. And it was great to learn about the history of the area.,weather,Positive
+3,The tour was great. The guide was very knowledgeable and the oysters were delicious. And it was great to learn about the history of the area.,guide,Positive
